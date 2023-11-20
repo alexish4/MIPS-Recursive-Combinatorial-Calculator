@@ -1,0 +1,23 @@
+
+Enter the value for r: 
+5
+Enter the value for n: 
+10
+The value of r is: 5
+The value of n is: 10
+The value for the combination is: 252
+-- program is finished running --
+
+
+Reset: reset completed.
+
+
+Enter the value for r: 
+190
+Enter the value for n: 
+190
+The value of r is: 190
+The value of n is: 190
+The value for the combination is: 1
+-- program is finished running --
+
